@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-psd/mobile-phone-mock-up-design_1297-17.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "iPhone 14",
+      "brand_name": "Apple",
+      "price": 999,
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-vector/smartphone-with-different-views-realistic-style_23-2147849864.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Galaxy S23",
+      "brand_name": "Samsung",
+      "price": 799,
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-vector/back-front-smartphone_23-2147698164.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Redmi Note 12",
+      "brand_name": "Xiaomi",
+      "price": 199,
+      "rating": 4.0
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-vector/realistic-black-smartphone-design_23-2148374056.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Vivo X90 Pro",
+      "brand_name": "Vivo",
+      "price": 999,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-psd/mobile-phone-mock-up-design_1297-17.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "iPhone 13 Mini",
+      "brand_name": "Apple",
+      "price": 699,
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-vector/smartphone-with-different-views-realistic-style_23-2147849864.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Galaxy Z Flip 4",
+      "brand_name": "Samsung",
+      "price": 999,
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-vector/back-front-smartphone_23-2147698164.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Mi 13 Pro",
+      "brand_name": "Xiaomi",
+      "price": 799,
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-vector/realistic-black-smartphone-design_23-2148374056.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Vivo V27",
+      "brand_name": "Vivo",
+      "price": 499,
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/free-psd/mobile-phone-mock-up-design_1297-17.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "iPhone SE (2022)",
+      "brand_name": "Apple",
+      "price": 429,
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "image": "https://img.freepik.com/free-vector/smartphone-with-different-views-realistic-style_23-2147849864.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Galaxy A54",
+      "brand_name": "Samsung",
+      "price": 449,
+      "rating": 4.1
+    },
+    {
+      "id": 11,
+      "image": "https://img.freepik.com/free-vector/back-front-smartphone_23-2147698164.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Redmi K50 Pro",
+      "brand_name": "Xiaomi",
+      "price": 499,
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "image": "https://img.freepik.com/free-vector/realistic-black-smartphone-design_23-2148374056.jpg?ga=GA1.1.496232818.1723449551&semt=ais_hybrid",
+      "phone_name": "Vivo Y100",
+      "brand_name": "Vivo",
+      "price": 399,
+      "rating": 4.0
+    }
+  ]
+  
